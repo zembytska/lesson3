@@ -1,4 +1,7 @@
-
+body{
+    margin: 0;
+    padding: 0;
+}
 .father {
     height: 500px;
     width: 600px;
@@ -68,7 +71,7 @@
     position: absolute;
 
     font-size: 30px;
-    left: 450px;
+    left: 450px;}
 
 
 
